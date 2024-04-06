@@ -1,5 +1,5 @@
 //let titulo = document.querySelector('h1')
-//titulo.innerHTML = 'Jogo do número secreto';
+//titulo.innerHTML = 'Jogo do número secreto!';
 
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
